@@ -9,4 +9,5 @@ semestre 2021-2.
 - [OriginalWDBC.txt](https://raw.githubusercontent.com/masues/MD_datasets/main/OriginalWDBC.txt): Contiene datos acerca de estudios clínicos a partir de imágenes digitalizadas de pacientes con cáncer de mama de Wisconsin (WDBC, Wisconsin Diagnostic Breast Cancer). Extraido de: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 - [moives.csv](https://raw.githubusercontent.com/masues/MD_datasets/main/movies.csv): Contiene transacciones acerca de la visualización de diferentes películas.
 - [RGeofisicos.txt](https://raw.githubusercontent.com/masues/MD_datasets/main/RGeofisicos.txt): Contiene mediciones de registros geofísicos convencionales, obtenidas a diferentes profundidades.
+- [MCRlyrics.csv](https://raw.githubusercontent.com/masues/MD_datasets/main/MCRlyrics.csv): Corpus textual con las canciones de toda la discografía de My Chemical Romance. Obtenido de: https://www.kaggle.com/akkrause114/my-chemical-romance-discography
 
